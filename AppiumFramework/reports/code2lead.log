@@ -1,0 +1,38 @@
+27/04/23 	 03:24:21 PM Thursday : INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/ContactUs
+27/04/23 	 03:24:23 PM Thursday : INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/ContactUs
+27/04/23 	 03:24:23 PM Thursday : INFO : Element found with LocatorType: text with the locatorValue :Contact Us form
+27/04/23 	 03:24:23 PM Thursday : INFO : Element with LocatorType: text and with the locatorValue :Contact Us formis displayed 
+27/04/23 	 03:24:23 PM Thursday : INFO : Element found with LocatorType: text with the locatorValue :Enter Name
+27/04/23 	 03:24:23 PM Thursday : INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Name
+27/04/23 	 03:24:23 PM Thursday : INFO : Element found with LocatorType: text with the locatorValue :Enter Email
+27/04/23 	 03:24:24 PM Thursday : INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Email
+27/04/23 	 03:24:24 PM Thursday : INFO : Element found with LocatorType: index with the locatorValue :4
+27/04/23 	 03:24:25 PM Thursday : INFO : Send text  on Element with LocatorType: index and with the locatorValue :4
+27/04/23 	 03:24:26 PM Thursday : INFO : Element found with LocatorType: text with the locatorValue :Enter Address
+27/04/23 	 03:24:26 PM Thursday : INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Address
+27/04/23 	 03:24:26 PM Thursday : INFO : Element found with LocatorType: text with the locatorValue :SUBMIT
+27/04/23 	 03:24:27 PM Thursday : INFO : Clicked on Element with LocatorType: text and with the locatorValue :SUBMIT
+27/04/23 	 03:24:38 PM Thursday : INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Login
+27/04/23 	 03:24:39 PM Thursday : INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Login
+27/04/23 	 03:24:39 PM Thursday : INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Et4
+27/04/23 	 03:24:39 PM Thursday : INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Et4
+27/04/23 	 03:24:40 PM Thursday : INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Et5
+27/04/23 	 03:24:40 PM Thursday : INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Et5
+27/04/23 	 03:24:40 PM Thursday : INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Btn3
+27/04/23 	 03:24:40 PM Thursday : INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Btn3
+27/04/23 	 03:24:50 PM Thursday : INFO : Element not found with LocatorType: text and with the locatorValue :Enter Admin
+27/04/23 	 03:24:50 PM Thursday : INFO : Element with LocatorType: text and with the locatorValue :Enter Admin is not displayed
+27/04/23 	 03:24:52 PM Thursday : INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Login
+27/04/23 	 03:24:52 PM Thursday : INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Login
+27/04/23 	 03:24:53 PM Thursday : INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Et4
+27/04/23 	 03:24:53 PM Thursday : INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Et4
+27/04/23 	 03:24:54 PM Thursday : INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Et5
+27/04/23 	 03:24:54 PM Thursday : INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Et5
+27/04/23 	 03:24:54 PM Thursday : INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Btn3
+27/04/23 	 03:24:55 PM Thursday : INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Btn3
+27/04/23 	 03:24:56 PM Thursday : INFO : Element found with LocatorType: text with the locatorValue :Enter Admin
+27/04/23 	 03:24:56 PM Thursday : INFO : Element with LocatorType: text and with the locatorValue :Enter Adminis displayed 
+27/04/23 	 03:24:56 PM Thursday : INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Edt_admin
+27/04/23 	 03:24:56 PM Thursday : INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Edt_admin
+27/04/23 	 03:24:56 PM Thursday : INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Btn_admin_sub
+27/04/23 	 03:24:56 PM Thursday : INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Btn_admin_sub

@@ -1,0 +1,4 @@
+[32mINFO    [0m BasePage:BasePage.py:46 Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Edt_admin
+[32mINFO    [0m BasePage:BasePage.py:72 Send text  on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Edt_admin
+[32mINFO    [0m BasePage:BasePage.py:46 Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Btn_admin_sub
+[32mINFO    [0m BasePage:BasePage.py:60 Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Btn_admin_sub
