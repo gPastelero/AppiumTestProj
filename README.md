@@ -20,7 +20,7 @@ along with Appium Server.
 <hr>
 <h1>Usage</h1>
 <hr>
-<p>To use, navigate to the directory and run the following commands:</p>
+<p>To use, navigate to this folder's root directory and run the following commands:</p>
 <ul>
   <li>py.test -v -s .\AppiumFramework\tests\TestSuite.py --alluredir='AppiumFramework/reports/allurereports'
   <br>This is used to run the tests.</li>
