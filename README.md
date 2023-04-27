@@ -4,13 +4,13 @@
 All in a POM format, along with reports and screenshots.
 <br><br>
 The desired capabilities may be changed to suit your machine's needs, or to change the port the driver runs on. By default, it is
-4723. This can be found in AppiumFramework/base/DriverClass.py</h3>
+4723. This can be found in AppiumFramework/base/DriverClass.py
+<br><br>Testing was done on an Android 13 Pixel 3a XL virtual machine using Android Studio, along with Appium Server.</h3>
 <hr>
 <h1>Requirements</h1>
 <hr>
-<p>All requirements are in the resources folder.<br>Testing was done on an Android 13 Pixel 3a XL virtual machine using Android Studio,
-along with Appium Server.
-<br>Python packages required:</p>
+<p>All requirements are in the resources folder.
+<br><br>Python packages required:</p>
 <ul>
     <li>selenium</li>
     <li>pytest</li>
