@@ -1,7 +1,9 @@
 <h1>Appium Test Project</h1>
 <hr>
 <h3>This project is just a small demonstration of code that runs two tests on a test apk by Code2Lead.
-All in a POM format, along with reports and screenshots.
+    All in a POM format, along with reports and screenshots.<br>
+    The application is included in the resources folder and must be installed into your test device in order for this
+    to function.<br>
 <br><br>
 The desired capabilities may be changed to suit your machine's needs, or to change the port the driver runs on. By default, it is
 4723. This can be found in AppiumFramework/base/DriverClass.py
